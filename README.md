@@ -6,7 +6,7 @@ Ever forget to turn your timer back on in Harvest and have to guess how long you
 
 Make sure you install a userscript engine like [Tampermonk](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) and then follow this link:
 
-[harvest-stopwatch](https://raw.githubusercontent.com/chasingmaxwell/harvest-stopwatch/harvest-stopwatch.user.js)
+[harvest-stopwatch](https://github.com/chasingmaxwell/harvest-stopwatch/raw/master/harvest-stopwatch.user.js)
 
 ## @TODO:
 - Use something more helpful than the console.

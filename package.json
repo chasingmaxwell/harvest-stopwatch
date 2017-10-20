@@ -1,6 +1,6 @@
 {
   "name": "harvest-stopwatch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Log to the console every time you stop a timer in Harvest.",
   "scripts": {
     "lint": "eslint .",

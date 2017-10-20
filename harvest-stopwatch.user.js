@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name          Harvest Stopwatch
 // @namespace     https://github.com/chasingmaxwell
-// @version       1.0.0
+// @version       1.0.1
 // @description   Log to the console every time you stop a timer in Harvest.
 // @author        Peter Sieg <chasingmaxwell@gmail.com>
 // @match         https://*.harvestapp.com/*
 // @grant         none
-// @updateURL   https://raw.githubusercontent.com/chasingmaxwell/harvest-stopwatch/harvest-stopwatch.user.js
-// @downloadURL https://raw.githubusercontent.com/chasingmaxwell/harvest-stopwatch/harvest-stopwatch.user.js
+// @updateURL   https://github.com/chasingmaxwell/harvest-stopwatch/raw/master/harvest-stopwatch.user.js
+// @downloadURL https://github.com/chasingmaxwell/harvest-stopwatch/raw/master/harvest-stopwatch.user.js
 // ==/UserScript==
 
 /* globals $ */
