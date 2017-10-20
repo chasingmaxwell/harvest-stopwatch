@@ -1,0 +1,17 @@
+{
+  "name": "harvest-stopwatch",
+  "version": "1.0.0",
+  "description": "Log to the console every time you stop a timer in Harvest.",
+  "scripts": {
+    "lint": "eslint .",
+    "precommit": "yarn lint"
+  },
+  "author": "Peter Sieg <chasingmaxwell@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "husky": "^0.14.3"
+  }
+}
