@@ -16,4 +16,3 @@ When you can't remember the time you stopped a timer on an open Harvest tab, sim
 
 - Display stop log in a more user-friendly format than the console.
 - Persist the log outside a single Harvest tab.
-- Stop using jQuery.
