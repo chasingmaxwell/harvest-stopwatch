@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Harvest Stopwatch
 // @namespace     https://github.com/chasingmaxwell
-// @version       1.0.1
+// @version       1.0.2
 // @description   Log to the console every time you stop a timer in Harvest.
 // @author        Peter Sieg <chasingmaxwell@gmail.com>
 // @match         https://*.harvestapp.com/*
