@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Harvest Stopwatch
 // @namespace     https://github.com/chasingmaxwell
-// @version       2.0.1
+// @version       2.0.2
 // @description   Log to the console every time you stop a timer in Harvest.
 // @author        Peter Sieg <chasingmaxwell@gmail.com>
 // @match         https://*.harvestapp.com/*
@@ -26,7 +26,7 @@
     // Get time.
     const now = new Date();
     const hours24 = now.getHours();
-    const hours = (24 - hours24) - (now.getTimezoneOffset() / 60);
+    const hours = (hours24 > 12 ? hours24 - 12 : hours24);
     const minutes = `0${now.getMinutes()}`.slice(-2);
 
     // Get task details.
